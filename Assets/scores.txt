@@ -1,0 +1,10 @@
+Brandon2,1100
+Brandon ,1000
+Bob,900
+John,500
+Brandon3,400
+Joe,400
+Steve,300
+Tom,100
+System,0
+System,0
