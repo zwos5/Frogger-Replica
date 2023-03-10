@@ -1,5 +1,5 @@
 # Frogger-Replica
-Assignment 4 for CS4223 Game Programming Spring 2023 Modified Frogger Tutorial from Brackeys
+Assignment 4 for CS4223 Game Programming Spring 2023 Modified Frogger Replica from Brackeys
 
 ## Modifications Made
 1. Three scenes (intro, game, exit) and move between them
